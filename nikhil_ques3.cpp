@@ -90,7 +90,8 @@ int main()
         <<"3.Pop from stack 1\n"
         <<"4.POp from stack 2\n"
         <<"5.Display stack\n"
-        <<"6.Exit\n";
+        <<"6.Exit\n"
+        <<"======================\n";
     do
     {
         cout<<"Choice: ";
