@@ -11,7 +11,7 @@ using namespace std;
 
 struct stack
 {
-    string x[40];
+    int x[40];
     int top1,top2;
 }st;
 
